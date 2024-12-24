@@ -1,10 +1,10 @@
-# All-Seeing Telegram Bot
+# all-seeing Telegram bot
 
-The All-Seeing Telegram Bot operates in business mode, making it a powerful tool for Telegram Premium users. It allows the retrieval of the content of messages that other users have edited or deleted in private chats with the bot's owner. The bot retrieves the original content from its database and notifies the owner. Additionally, it identifies new users who message the owner and sends their Telegram ID.
+The all-seeing Telegram bot operates in business mode, making it a powerful tool for Telegram Premium users. It allows the retrieval of the content of messages that other users have edited or deleted in private chats with the bot's owner. The bot retrieves the original content from its database and notifies the owner. Additionally, it identifies new users who message the owner and sends their Telegram ID.
 
 ---
 
-## Features
+## 🌟 Features
 
 - **Track Edited Messages**
 - **Track Deleted Messages**
@@ -13,9 +13,9 @@ The All-Seeing Telegram Bot operates in business mode, making it a powerful tool
 
 ---
 
-## Setup Instructions
+## ⚙️ Setup Instructions
 
-### Step 1: Create a Telegram Bot and Enable Business Mode
+### 🛠️ Step 1: Create a Telegram Bot and Enable Business Mode
 
 1. Open Telegram and start a chat with [@BotFather](https://t.me/botfather):
 
@@ -36,7 +36,7 @@ The All-Seeing Telegram Bot operates in business mode, making it a powerful tool
 
 ---
 
-### Step 2: Get Your Telegram User ID
+### 🔍 Step 2: Get Your Telegram User ID
 
 1. Start a chat with [@pfauberg\_bot](https://t.me/pfauberg_bot).
 2. Send `/start` to the bot.
@@ -44,7 +44,7 @@ The All-Seeing Telegram Bot operates in business mode, making it a powerful tool
 
 ---
 
-### Step 3: Configure the Bot
+### 🔧 Step 3: Configure the Bot
 
 1. Rename the `config_example.ini` file to `config.ini` in the root directory.
 2. Replace the placeholder values with your own:
@@ -66,7 +66,7 @@ language - Your language here
 
 ---
 
-### Step 4: Install and Run
+### 🚀 Step 4: Install and Run
 
 1. Clone the repository to your local machine:
 
@@ -94,7 +94,7 @@ python main.py
 
 ---
 
-## Language Support
+## 🌐 Language Support
 
 To add a new language:
 
@@ -103,7 +103,7 @@ To add a new language:
 
 ---
 
-## Examples of Bot Notifications
+## 📩 Examples of Bot Notifications
 
 ### New User Alert
 
