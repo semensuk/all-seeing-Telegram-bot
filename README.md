@@ -38,7 +38,7 @@ The all-seeing Telegram bot operates in business mode, making it a powerful tool
 
 ### 🔍 Step 2: Get Your Telegram User ID
 
-1. Start a chat with [@pfauberg\_bot](https://t.me/pfauberg_bot).
+1. Start a chat with [@pfauberg\_bot](https://t.me/pfauberg_bot) [Temporarily unavailable].
 2. Send `/start` to the bot.
 3. The bot will respond with your Telegram user ID. Copy this ID.
 
